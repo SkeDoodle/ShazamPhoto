@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vara</string>
+    <string name="action_settings">Clear the cache</string>
+    <string name="about">An application under development</string>
+    <string name="search_hint">Search a monument...</string>
+    <string name="search_label">Search a monument</string>
+    <string name="search_global_description">Search a monument</string>
+    <string name="title_section1">Shazam</string>
+    <string name="title_section2">Tag</string>
+    <string name="title_section3">Map</string>
+    <string name="title_section4">Favourites monuments</string>
+    <string name="image_text">Monument picture</string>
+    <string name="title_activity_detail_monument">DetailMonument</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="detail_monument">Detail monument</string>
+    <string name="title_activity_activity_to_delete">activityToDelete</string>
+    <string name="text_view_favorite">Add to favorite</string>
+    <string name="text_view_like">I like it</string>
+    <string name="delete_text">Delete this monument</string>
+    <string name="share_text">Share this monument</string>
+    <string name="title_activity_unidentified_monument">UnidentifiedMonument</string>
+    <string name="construction_year">Construction year...</string>
+    <string name="title_activity_nearest_monuments">Map</string>
+    <string name="description_nofound">La tour Eiffel est une tour de fer puddlé de 324 mètres de hauteur (avec antennes)o 1 située à Paris, à l’extrémité nord-ouest du parc du Champ-de-Mars en bordure de la Seine dans le 7e arrondissement.</string>
+    <string name="no_nearest_monument">No monuments around</string>
+    <string name="title_activity_delete">Map</string>
+    <string name="googlemap_hint">Use google map</string>
+    <string name="makecircuit">OK</string>
+    <string name="searchnearestmonuments">NEAREST MONUMENTS</string>
+    <string name="cancelcircuit">CANCEL</string>
+    <string name="modecircuit">CREATE CIRCUIT</string>
+    <string name="back">BACK</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
